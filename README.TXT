@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This is a Java project made in BlueJ finalized on Nov 12, 2020 as part of the AP Computer Science Curriculum.
+To run this program, navigate to TTT_game in the terminal and run java TTT.class
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Functionality includes:
+Detecting wins,
+Detecting winnable gamestates,
+predicting tied games at turn 7
